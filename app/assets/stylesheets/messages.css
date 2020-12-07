@@ -22,11 +22,11 @@
   overflow: scroll;
 }
 
-.room{
+.room {
   padding: 20px 0 40px;
 }
 
-.room-name a{
+.room-name a {
   color: white;
   text-decoration: none;
 
@@ -44,13 +44,13 @@
 }
 
 
-.header-title{
+.header-title {
   color: #333;
   font-size: 24px;
   margin-top: 36px;
 }
 
-.header-button{
+.header-button {
   margin-top: 40px;
 }
 
@@ -104,7 +104,6 @@
 
 .form-input{
   background-color: white;
-  display: flex;
   width: 100%;
 }
 
